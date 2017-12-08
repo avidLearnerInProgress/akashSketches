@@ -1,9 +1,11 @@
 # akashSketches
 Sketches And Drawings - Minimalistic Mobile App  
 
+### Pre-requisite
+  1. Creating json with img-id, img-name, all hashtags etc.
+  
 ### To-Do List  
-
-- [ ] Scrape Image Data
+- [ ] Load Image Data
 - [ ] Material Tabs
 - [ ] Card Layout
 - [ ] Navigation Drawer
@@ -11,6 +13,14 @@ Sketches And Drawings - Minimalistic Mobile App
 - [ ] Fast Scroll
 - [ ] FAB
 - [ ] ViewHover
-- [ ] Pull Refresh  
+- [ ] Pull Refresh
+
+### Libraries to look into for efficiency
   
-#### Add/Modify List which suits our app the best.
+  1. Glide
+  2. Volley
+  3. CardView
+  4. universal image loader
+  
+#### Modify List which suits our app the best.
+#### For suggestions text me.
